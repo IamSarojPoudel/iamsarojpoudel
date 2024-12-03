@@ -5,11 +5,10 @@ I enjoy building mobile apps and developing backend systems. I take pleasure in 
 ## Technologies & Tools
 
 - **Languages:** Golang, Kotlin ,Dart
-- **Frameworks:** Gin, Echo, gRPC, Flutter
+- **Frameworks:** Gin, Flutter
 - **Databases:** PostgreSQL, MongoDB
-- **APIs:** REST, GraphQL
-- **Cloud:** AWS, Google Cloud
-- **Tools:** Docker, Kubernetes, Git, Postman
+- **APIs:** REST
+- **Tools:** Docker, Git, Postman
 
 ## Get in Touch
 
