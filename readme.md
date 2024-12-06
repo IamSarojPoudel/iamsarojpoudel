@@ -19,6 +19,3 @@ I enjoy building mobile apps and developing backend systems. I take pleasure in 
 </p>
 
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsarojpoudel&theme=radical)
